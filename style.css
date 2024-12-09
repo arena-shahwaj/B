@@ -30,7 +30,7 @@
     
     /* Navbar Styles */
     .navbar {
-      background-color: transparent; /* rgba(0, 0, 0, 0.1); /* Transparent background */
+      background-color:rgba(0, 0, 0, 1); /* Transparent background */
     }
     .navbar-nav {
       flex-grow: 1;
@@ -82,7 +82,7 @@
       position: relative;
       z-index: 2;
       max-width: 600px;
-      margin-top: 270px;
+      margin-top: 290px;
     }
 
     .content h1 {

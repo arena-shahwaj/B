@@ -44,7 +44,8 @@
       color: #00d9ff;
     }
 
-.hero-section {
+    /*hero section*/
+  .hero-section {
   position: relative;
   height: 100vh; 
   display: flex;
@@ -53,7 +54,7 @@
   padding: 50px;
   color: white;
   overflow: hidden; 
-}
+  }   
     
     .hero-section video {
       position: absolute;
@@ -143,6 +144,7 @@
       }
     }
 
+    /*slider galaxy section*/
     .slider-section {
       height: 100vh;
       margin: 0;
@@ -192,6 +194,7 @@
       
     }
 
+    
     .carousel-indicators {
       position: absolute;
       bottom: 15px;
